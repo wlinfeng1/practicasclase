@@ -1,1 +1,3 @@
 Fichero1
+Cambio1 desde rama1
+Otro cambio desde rama1
